@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=QKBC
+comment1.params=op
+comment1.target=void\ easy(int)
+comment2.params=op
+comment2.target=void\ intermediate(int)
+comment3.params=op
+comment3.target=void\ hard(int)
+numComments=4
